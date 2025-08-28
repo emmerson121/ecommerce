@@ -303,10 +303,6 @@ body{
     
 }
 
-.cat{
-    /* cursor: pointer; */
-}
-
 .packages{
     display: flex;
     justify-content: center;
