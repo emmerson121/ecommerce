@@ -4,7 +4,7 @@ import './about.css';
 import Footer from "./footer";
 import Navbar from "./navbar";
 import Main from "./main";
-import furnlogo from './img/furnlogo.png';
+// import furnlogo from './img/furnlogo.png';
 import family from './img/family.jpg';
 import stairs from './img/stairs.jpg';
 import jenni from './img/jenni.jpg';
